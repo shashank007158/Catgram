@@ -187,7 +187,11 @@ span
   }
   .footer-icon
   {
-    font-size:0.15rem;
+    font-size:1.25rem;
       margin:40px 20px;
-
+  }
+  .navbar-dark .navbar-nav .nav-link
+  {
+    color:white;
+  }
 }
