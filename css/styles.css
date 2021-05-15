@@ -176,5 +176,18 @@ span
   {
     text-align: center;
   }
+  .navbar-dark .navbar-toggler
+  {
+    color: white;
+    border-color: white;
+  }
+  .navbar-brand
+  {
+    font-size: 3rem;
+  }
+  .footer-icon
+  {
+    font-size:0.15rem;
+      margin:40px 20px;
 
 }
